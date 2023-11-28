@@ -2,7 +2,7 @@
  Cyber Security Analyst, SOC Analyst!
 
 <h2>👨‍💻 Cyber Security Tasks/Previous Projects:</h2>
-
+Parsing Files Dcoument/pdf [file:///C:/Users/Owner/Downloads/Import%20and%20Parse%20A%20text%20file.pdf](url)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
