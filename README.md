@@ -2,16 +2,17 @@
  Cyber Security Analyst, SOC Analyst!
 
 <h2>👨‍💻 Cyber Security Tasks/Previous Projects:</h2>
-- <b>Python</b>
 
-Parsing Files Document [[https://docs.google.com/document/d/1GbcOdRDQDUT43JO1tXCY72KOahlMSBSb7IKwjz83-Xg/edit?usp=sharing}](url)
+- <b>Python </b>
+  - [Import and Parse a text file](https://docs.google.com/document/d/1GbcOdRDQDUT43JO1tXCY72KOahlMSBSb7IKwjz83-Xg/edit?usp=sharing) <b><i>(Project, Doc)</b></i>
+  - [Working With Strings](https://docs.google.com/document/d/1-K9BVPoqArhdsoDw71E6Q1cWYOwSDmecLoGdP0xRlgE/edit?usp=sharing) <b><i>(Project, Doc)</b></i>
+  - [Developing An Algorithm](https://docs.google.com/document/d/1w4TdpRh6_dxhUYygFmED0P1b_vYXo6qELmo2OOSHXbw/edit?usp=sharing) <b><i>(Project, Doc)</b></i>
+   - [Debugging Code ](https://docs.google.com/document/d/1rt48i3PxhzbASu0DpGMDih-oBKZFVwhlCNGMUKYP_oI/edit?usp=sharing) <b><i>(Doc, Project )</b></i>
 
-Working With Strings In Python
-[[[https://docs.google.com/document/d/1-K9BVPoqArhdsoDw71E6Q1cWYOwSDmecLoGdP0xRlgE/edit?usp=sharing}]](url)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Incident Handling Journal (Journal entries contaaining previous work on Projects )</b>
+  - [Contains Entries for Projects](https://docs.google.com/document/d/1_dXcE22N3INZuHSyFVI92RxnVBTwAdeRs2Z90UK2Kw0/edit?usp=sharing&resourcekey=0-54DKz2PlUS8UoKq4trnleA) <b><i>(Doc Of Journal, and reflections)</b></i>
+- <b>Linux</b>
+  - [Installing Software: In a Liinux Distrubution](https://docs.google.com/document/d/1WQEf4FGmFkMW-iJfW3D4dbkV3qPrux-BvdgFmKweDuE/edit?usp=sharing)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
