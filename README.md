@@ -13,8 +13,8 @@
   - [Contains Entries for Projects](https://docs.google.com/document/d/1_dXcE22N3INZuHSyFVI92RxnVBTwAdeRs2Z90UK2Kw0/edit?usp=sharing&resourcekey=0-54DKz2PlUS8UoKq4trnleA) <b><i>(Doc Of Journal, and reflections)</b></i>
 - <b>Linux</b>
   - [Installing Software: In a Liinux Distrubution](https://docs.google.com/document/d/1WQEf4FGmFkMW-iJfW3D4dbkV3qPrux-BvdgFmKweDuE/edit?usp=sharing)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Finding Files Within Linux](https://docs.google.com/document/d/1wGS11bJ_h3DV7z_I7gwz5LoUZhsnL_FdYNwcBAvCTU8/edit?usp=sharing)
+  - [Managing Files With Linux Commands ](https://docs.google.com/document/d/1TrniKP_eB7TJp7lhxxKqvHke2z325D8fNcSlOvo4xKk/edit?usp=sharing)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b> SQL (Projects, Documents)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
