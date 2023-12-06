@@ -17,9 +17,9 @@
   - [Managing Files With Linux Commands ](https://docs.google.com/document/d/1TrniKP_eB7TJp7lhxxKqvHke2z325D8fNcSlOvo4xKk/edit?usp=sharing)
   - [Adding and Managing Users In Linux](https://docs.google.com/document/d/10_VhTu3FRx-mCMqjz5ZKWzsGuHVe2_P9AzBoU6sv8eY/edit?usp=sharing)
 - <b> SQL (Projects, Documents)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Filter a SQL Query (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [RFilter With And, OR, NOT (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Completing a SQL Join](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
