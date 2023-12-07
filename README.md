@@ -21,8 +21,8 @@
   - [RFilter With And, OR, NOT (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Completing a SQL Join](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Perform A SQL Query](https://docs.google.com/document/d/1XBki81YjGTGPyw-Bx_upivrI_aO0CeKPgItlAZ68gdU/edit?usp=sharing)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Security Audit And More </b>
+  - [Security Audit (Doc, Project)](https://docs.google.com/document/d/1xEese_7wf6YbaCwP4OYlGBmmCM3QBmkHSnecXlJ6JW8/edit?usp=sharing)
 
 <h2>📺 Popular YouTube Videos</h2>
 
