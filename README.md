@@ -18,7 +18,7 @@
   - [Adding and Managing Users In Linux](https://docs.google.com/document/d/10_VhTu3FRx-mCMqjz5ZKWzsGuHVe2_P9AzBoU6sv8eY/edit?usp=sharing)
 - <b> SQL (Projects, Documents)</b>
   - [Filter a SQL Query (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [RFilter With And, OR, NOT (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Filter With And, OR, NOT (Decrypter)](https://docs.google.com/document/d/1jrq1oLPyOwWaqmSr_zgENvtzf2BVqrlMQZP_y6WKG94/edit?usp=sharing)
   - [Completing a SQL Join](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Perform A SQL Query](https://docs.google.com/document/d/1XBki81YjGTGPyw-Bx_upivrI_aO0CeKPgItlAZ68gdU/edit?usp=sharing)
 - <b>Security Audit And More </b>
