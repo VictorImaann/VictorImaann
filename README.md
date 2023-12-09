@@ -16,15 +16,24 @@
   - [Finding Files Within Linux](https://docs.google.com/document/d/1wGS11bJ_h3DV7z_I7gwz5LoUZhsnL_FdYNwcBAvCTU8/edit?usp=sharing)
   - [Managing Files With Linux Commands ](https://docs.google.com/document/d/1TrniKP_eB7TJp7lhxxKqvHke2z325D8fNcSlOvo4xKk/edit?usp=sharing)
   - [Adding and Managing Users In Linux](https://docs.google.com/document/d/10_VhTu3FRx-mCMqjz5ZKWzsGuHVe2_P9AzBoU6sv8eY/edit?usp=sharing)
+  -  [File Permissions In Linux](https://docs.google.com/document/d/10_VhTu3FRx-mCMqjz5ZKWzsGuHVe2_P9AzBoU6sv8eY/edit?usp=sharing)
 - <b> SQL (Projects, Documents)</b>
-  - [Filter a SQL Query (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Filter a SQL Query (Encrypter)](https://docs.google.com/document/d/1C8j2ZFCxfD8MojKHQw9GiGZa1zVO-YLpNExw3TlVj7U/edit?usp=sharing)
   - [Filter With And, OR, NOT (Decrypter)](https://docs.google.com/document/d/1jrq1oLPyOwWaqmSr_zgENvtzf2BVqrlMQZP_y6WKG94/edit?usp=sharing)
-  - [Completing a SQL Join](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Completing a SQL Join](https://docs.google.com/document/d/1u6VGlKzKyaiuTKkmXyjEj_5chKkRsfk56mmFOnI-bgo/edit?usp=sharing)
   - [Perform A SQL Query](https://docs.google.com/document/d/1XBki81YjGTGPyw-Bx_upivrI_aO0CeKPgItlAZ68gdU/edit?usp=sharing)
-- <b>Security Audit And More </b>
+- <b>Security Audit And Cybersecurity Resume </b>
   - [Security Audit (Doc, Project)](https://docs.google.com/document/d/1xEese_7wf6YbaCwP4OYlGBmmCM3QBmkHSnecXlJ6JW8/edit?usp=sharing)
+  - [Cybersecurity Resume)](https://docs.google.com/document/d/1BKcO0XM-LQ9-2hoIM-WmSdlhDam0YLWL/edit?usp=sharing&ouid=105854713852057013968&rtpof=true&sd=true)
+    
+<h2> 🤳 Connect with me:</h2>
+[twitter]: https://twitter.com/VictorImaann
+[linkedin]: www.linkedin.com/in/victorimaann7225
 
-<h2>📺 Popular YouTube Videos</h2>
+
+
+
+<h2> Online Studies And Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -32,17 +41,8 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
