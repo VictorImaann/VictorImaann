@@ -30,31 +30,12 @@
 [twitter]: https://twitter.com/VictorImaann
 [linkedin]: www.linkedin.com/in/victorimaann7225
 
-
-
-
-<h2> Online Studies And Certifications</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2> Professional Statement:</h2>
+- I'm a Practicing Cybersecurity Aanalyst or SOC analyst looking for Opportunitirs to grow and develop skills in the cybersecurity tech field. As seen above, I have conducted many projects regarding tools that every day cyber analysts use such as Python, Linux, SQL, as well as other things like security audits, security journals and many others. With these skills I'm looking for Entry Level Jobs regarding cybersecurity to learn and grow, as well as help organizations keep information and data secure to maintain the reputation of the organixation. Thank You!
 
 
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
