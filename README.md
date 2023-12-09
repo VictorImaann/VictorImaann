@@ -18,8 +18,8 @@
   - [Adding and Managing Users In Linux](https://docs.google.com/document/d/10_VhTu3FRx-mCMqjz5ZKWzsGuHVe2_P9AzBoU6sv8eY/edit?usp=sharing)
   -  [File Permissions In Linux](https://docs.google.com/document/d/10_VhTu3FRx-mCMqjz5ZKWzsGuHVe2_P9AzBoU6sv8eY/edit?usp=sharing)
 - <b> SQL (Projects, Documents)</b>
-  - [Filter a SQL Query (Encrypter)](https://docs.google.com/document/d/1C8j2ZFCxfD8MojKHQw9GiGZa1zVO-YLpNExw3TlVj7U/edit?usp=sharing)
-  - [Filter With And, OR, NOT (Decrypter)](https://docs.google.com/document/d/1jrq1oLPyOwWaqmSr_zgENvtzf2BVqrlMQZP_y6WKG94/edit?usp=sharing)
+  - [Filter a SQL Query (Project)](https://docs.google.com/document/d/1C8j2ZFCxfD8MojKHQw9GiGZa1zVO-YLpNExw3TlVj7U/edit?usp=sharing)
+  - [Filter With And, OR, NOT (Project)](https://docs.google.com/document/d/1jrq1oLPyOwWaqmSr_zgENvtzf2BVqrlMQZP_y6WKG94/edit?usp=sharing)
   - [Completing a SQL Join](https://docs.google.com/document/d/1u6VGlKzKyaiuTKkmXyjEj_5chKkRsfk56mmFOnI-bgo/edit?usp=sharing)
   - [Perform A SQL Query](https://docs.google.com/document/d/1XBki81YjGTGPyw-Bx_upivrI_aO0CeKPgItlAZ68gdU/edit?usp=sharing)
 - <b>Security Audit And Cybersecurity Resume </b>
@@ -31,7 +31,7 @@
 [linkedin]: www.linkedin.com/in/victorimaann7225
 
 <h2> Professional Statement:</h2>
-- I'm a Practicing Cybersecurity Aanalyst or SOC analyst looking for Opportunitirs to grow and develop skills in the cybersecurity tech field. As seen above, I have conducted many projects regarding tools that every day cyber analysts use such as Python, Linux, SQL, as well as other things like security audits, security journals and many others. With these skills I'm looking for Entry Level Jobs regarding cybersecurity to learn and grow, as well as help organizations keep information and data secure to maintain the reputation of the organixation. Thank You!
+- I'm a Practicing Cybersecurity Aanalyst or SOC analyst looking for Opportunitirs to grow and develop skills in the cybersecurity tech field. As seen above, I have conducted many projects regarding tools that every day cyber analysts use such as Python, Linux, SQL, as well as other things like security audits, security journals and many others. With these skills I'm looking for Entry Level Jobs regarding cybersecurity to learn and grow, as well as help organizations keep information and data secure. Thank You!
 
 
 
