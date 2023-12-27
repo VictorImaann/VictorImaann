@@ -1,5 +1,6 @@
 <h1>Hi, I'm Victor! 
- Cyber Security Analyst, SOC Analyst!
+ Currently Studying Computer Programming and CyberSecurity.
+ Below You will see links to my conducted projects when it comes to (Python, SQL, Linux OS,) and more.
 
 <h2>👨‍💻 Cyber Security Tasks/Previous Projects:</h2>
 
