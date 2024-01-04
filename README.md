@@ -32,7 +32,7 @@
 [linkedin]: www.linkedin.com/in/victorimaann7225
 
 <h2> Professional Statement:</h2>
-- I'm a Practicing Cybersecurity Aanalyst or SOC analyst looking for Opportunitirs to grow and develop skills in the cybersecurity tech field. As seen above, I have conducted many projects regarding tools that every day cyber analysts use such as Python, Linux, SQL, as well as other things like security audits, security journals and many others. With these skills I'm looking for Entry Level Jobs regarding cybersecurity to learn and grow, as well as help organizations keep information and data secure. Thank You!
+- I'm a Practicing Computer Programmer currently studying programming languages. Specifically Java, with good proficiency in Python SQL, LINUX OS. As seen above, I have conducted many projects regarding tools that Professioanl Programmers use such as Python, Linux, SQL.
 
 
 
