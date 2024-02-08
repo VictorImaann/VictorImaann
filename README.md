@@ -24,12 +24,12 @@
   - [Filter With And, OR, NOT (Project)](https://docs.google.com/document/d/1jrq1oLPyOwWaqmSr_zgENvtzf2BVqrlMQZP_y6WKG94/edit?usp=sharing)
   - [Completing a SQL Join](https://docs.google.com/document/d/1u6VGlKzKyaiuTKkmXyjEj_5chKkRsfk56mmFOnI-bgo/edit?usp=sharing)
   - [Perform A SQL Query](https://docs.google.com/document/d/1XBki81YjGTGPyw-Bx_upivrI_aO0CeKPgItlAZ68gdU/edit?usp=sharing)
-- <b>Security Audit And Cybersecurity Resume </b>
+- <b>Security Audit </b>
   - [Security Audit (Doc, Project)](https://docs.google.com/document/d/1xEese_7wf6YbaCwP4OYlGBmmCM3QBmkHSnecXlJ6JW8/edit?usp=sharing)
-  - [Cybersecurity Resume)](https://docs.google.com/document/d/1BKcO0XM-LQ9-2hoIM-WmSdlhDam0YLWL/edit?usp=sharing&ouid=105854713852057013968&rtpof=true&sd=true)
 
 - <b> Object Oriented Programming (Java) (Projects, Documents , Eclipse IDE)</b>
-Will Update Soon..
+
+  Will Update Soon..
 
 
 
