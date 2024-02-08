@@ -1,8 +1,9 @@
 <h1>Hi, I'm Victor! 
- Currently Studying Computer Programming and CyberSecurity.
- Below You will see links to my conducted projects when it comes to (Python, SQL, Linux OS,) and more.
+ Currently Studying Computer Programming (Java ,Python)  Via Online Courses with Entry Level Experience in Cybersecurity .
+ Below You will see links to my conducted projects when it comes to (Python, SQL, Linux OS,) and more. Currently focusing on Object Oriented Programming with Java Development.
+ Will update this page soon. 
 
-<h2>👨‍💻 Cyber Security Tasks/Previous Projects:</h2>
+<h2>👨‍💻 Programming(Python SQL) Docs Of Conducted Projects and Cybersecurity Tasks :</h2>
 
 - <b>Python </b>
   - [Import and Parse a text file](https://docs.google.com/document/d/1GbcOdRDQDUT43JO1tXCY72KOahlMSBSb7IKwjz83-Xg/edit?usp=sharing) <b><i>(Project, Doc)</b></i>
