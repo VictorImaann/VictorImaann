@@ -2,6 +2,7 @@
  Currently Studying Computer Programming (Java ,Python)  Via Online Courses with Entry Level Experience in Cybersecurity .
  Below You will see links to my conducted projects when it comes to (Python, SQL, Linux OS,) and more. Currently focusing on Object Oriented Programming with Java Development.
  Will update this page soon. 
+ If you are seeing this I most likely added it to a Job Application, THis is unreated to the job, but this is just one of my hbbies 
 
 <h2>👨‍💻 Programming(Python SQL) Docs Of Conducted Projects and Cybersecurity Tasks :</h2>
 
