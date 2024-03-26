@@ -1,10 +1,9 @@
 <h1>Hi, I'm Victor! 
  
-  If you are seeing this I most likely added it to a Job Application, This is unrelated to the job, but this is just one of my Professional Developments. 
+   If you are seeing this I most likely added it to a Job Application, This is unrelated to the job, but this is just one of my Professional Developments. 
  Currently Studying Computer Programming (Java ,Python), As well as Studying the Foundatiuons of Web-Development while studying HTML and CSS.
- Below You will see links to my conducted projects when it comes to (Python, SQL, Linux OS,) and more. Currently focusing on Object Oriented Programming with Java Development.
- Will update this page soon. 
- If you are seeing this I most likely added it to a Job Application, THis is unrelated to the job, but this is just one of my hobbies 
+   Below You will see links to my conducted projects when it comes to (Python, SQL, Linux OS,) and more. Currently focusing on Object Oriented Programming with Java Development.
+      Will update this page soon. 
 
 <h2>👨‍💻 Programming(Python SQL) Docs Of Conducted Projects and Cybersecurity Tasks :</h2>
 
